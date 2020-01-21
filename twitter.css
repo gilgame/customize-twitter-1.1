@@ -2,25 +2,25 @@ html {
 	color: #CCCCCC !important;
 }
 a{
-	color:#dd7700;
+	color:#dd7700 !important;
 	text-decoration:none
 }
 a:visited{
-	color:#cc6600;
+	color:#cc6600 !important;
 	text-decoration:none;
 	outline:0
 }
 a:focus{
-	color:#dd7700;
+	color:#dd7700 !important;
 	text-decoration:underline
 }
 a:hover{
-	color:#dd7700;
+	color:#dd7700 !important;
 	text-decoration:none;
 	outline:0
 }
 a:active{
-	color:#cc6600;
+	color:#cc6600 !important;
 	text-decoration:none;
 	outline:0
 }
