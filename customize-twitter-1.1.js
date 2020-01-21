@@ -1,4 +1,6 @@
 var CustomizeTwitterWidget = function(data) {
+    window.alert("test");
+    
     // ie hack, http://stackoverflow.com/a/10183573/329700
     if(!(window.console && console.log)) {
       console = {
